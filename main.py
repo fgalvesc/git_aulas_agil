@@ -1,5 +1,9 @@
 import random
-from .messages import display_messages
+from messages import display_messages
+import time
+
+print("Iniciando o Projeto!")
+time.sleep(3)
 
 while True:
     resposta = input ('Deseja Receber um Conselho? S/N: ?')
