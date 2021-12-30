@@ -1,7 +1,9 @@
 from messages import display_messages
 import random
+import time
 
-print("Starting Project again")
+print("Iniciando o projeto 3..2..1..")
+time.sleep(3)
 
 
 while True:
